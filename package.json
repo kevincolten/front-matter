@@ -20,7 +20,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "js-yaml": "^3.13.1"
+    "js-yaml": "nodeca/js-yaml#master"
   },
   "devDependencies": {
     "brfs": "^1.4.3",
